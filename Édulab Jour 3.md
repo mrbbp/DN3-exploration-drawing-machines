@@ -81,15 +81,15 @@ Maintenant le grand jeu, c’est de se faire un pré-réglage pour ne pas toujou
 
 Dans `Affinity Designer`, pour se créer un pré-réglage, ça se passe dans l’onglet `Export Persona`, il faut dessiner une tranche et régler les options d’export de la tranche. Une fois fait, dans le burger menu à droite, s’active la ligne `Créer un préréglage`. Il suffit de donner un nom et il sera maintenant présent dans la liste des préréglages d’export.
 
-Je vous montre les réglages que j’utilise, le plus important c’est la `Résolution` de **96dpi** et sans doute d’**aplatir les transformations** pour éviter d’avoir du code inutile sur les groupes. Comme dit plus haut, je transforme les textes en courbe, pour éviter les pb de typo d’un OS à l’autre. (je bosse sur MacOS, l’axidraw de l’édulab est branché sur un WinXX)
-
 ![Capture d’écran 2023-04-10 à 16.47.18.png](medias/Capture_decran_2023-04-10_a_16.47.18.png)
 
 ![Capture d’écran 2023-04-10 à 16.47.28.png](medias/Capture_decran_2023-04-10_a_16.47.28.png)
 
+Je vous montre les réglages que j’utilise, le plus important c’est la `Résolution` de **96dpi** et sans doute d’**aplatir les transformations** pour éviter d’avoir du code inutile sur les groupes. Comme dit plus haut, je transforme les textes en courbe, pour éviter les pb de typo d’un OS à l’autre. (je bosse sur MacOS, l’axidraw de l’édulab est branché sur un WinXX)
+
 ![Oh mon préréglage](medias/Capture_decran_2023-04-10_a_17.19.22.png)
 
-Oh mon préréglagei
+Oh mon préréglage
 
 ![Le document A3 (dans AD) ouvert dans Inkscape est bien en A3 (ou presque)](medias/Capture_decran_2023-04-10_a_17.35.59.png)
 
