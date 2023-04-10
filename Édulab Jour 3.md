@@ -29,7 +29,7 @@ En export de fichiers en `SVG`, Affinity Designer propose plusieurs pré-réglag
 
 Inkscape crée des documents svg dans l’unité demandée, dans l’exemple ici, un A3 en mm et donc le viewbox reprend les valeurs chiffrées. À l’ouverture dans AD (Affinity Designer), le document est à la bonne dimension. Mais, si on modifie le fichier et qu’on l’exporte en svg avec les pré-réglages d’AF, arrivé dans Inkscape, le fichier n’est plus au bon format.
 
-```xml
+```svg
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
@@ -55,14 +55,14 @@ Inkscape crée des documents svg dans l’unité demandée, dans l’exemple ici
 </svg>
 ```
 
-```xml
+```svg
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 842 1191" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
 </svg>
 ```
 
-```xml
+```svg
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg width="100%" height="100%" viewBox="0 0 3508 4961" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
