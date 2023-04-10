@@ -1,5 +1,5 @@
 # DN3-exploration-drawing-machines
-documentation technique des explorations avec l'axidraw (et autre machines à dessiner) à l'édulab Pasteur, Rennes.
+Documentation technique des explorations avec l'axidraw (et autre machines à dessiner) à l'édulab Pasteur, Rennes, par les étudiants du DNMADe Design graphique, langages visuels, du lycée Bréquigny.
 
 Nous avons été accueilli sur 4 séances de 4h, les 28 mars, 4 avril, 11 avril et 16 mai 2023, pour expérimenter avec les machines dont dispose l'édulab.
 
