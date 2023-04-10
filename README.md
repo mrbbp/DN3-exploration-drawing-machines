@@ -14,4 +14,8 @@ Bref l'usage de ce type de machines nécessite de tester et éprouver les propos
 Il faudrait sans doute y consacrer plus de temps, pour réflechir à des mécanismes qui compenseraient les défauts des machines. Des solutions à base de découpe laser ou impressions 3D pour fabriquer des holders pour marqueurs Molotow® par ex., la possibilité d'ajouter un axe de rotation supplémentaire pour tourner la tête du marqueur, etc, etc ou encore de ;compresser le corps du marqueur pour obtenir plus d'encre... 
 
 C'est sans doute une idée de workshop à imaginer avec d'autres formations qui amèneraient un support technique que je (@mrbbp) ne peut amener seul sur si peu de temps.
-Je poserai ici, le résultat de mes propres recherches avec des outils-(code)-maison pour le dessin de lettres avec les outils de dessin mis à dispo (essentiellement l'axidraw).
+Je poserai ici, le résultat de mes propres recherches avec des outils-(code)-maison.   
+À partir d'un custom de l'outil [Animator](https://github.com/mrbbp/Animator) et [Animator-Producer](https://ecb.dnmade-rennes-design-graphique.fr/_markdown.php?f=DN2__230302__Animator_-_producer.md) j'ai essayé de produire des affiches avec des lettres dessinées avec les outils mis à disposition (essentiellement l'axidraw, mais le principe est déclinable pour le Polargraph).
+
+## réf.
+[Hektor de Jürg Lehni](https://juerglehni.com/works/hektor)
