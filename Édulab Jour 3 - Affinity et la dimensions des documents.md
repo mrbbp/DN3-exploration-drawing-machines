@@ -69,11 +69,11 @@ Inkscape crée des documents svg dans l’unité demandée, dans l’exemple ici
 </svg>
 ```
 
-Si on ausculte le fichier dans un éditeur, le document n’a plus d’unité, la `width`et la `height` sont à `100%` et le `viewBo`  contient d’autres valeurs. Suivant les pré-réglages, la dimension de la viewBox est différente.
+Si on ausculte le fichier dans un éditeur, le document n’a plus d’unité, la `width`et la `height` sont à `100%` et le `viewBox` contient d’autres valeurs. Suivant les pré-réglages, la dimension de la viewBox est différente.
 
 Il se trouve qu’en modifiant de façon empirique les réglages d’export, j’ai enfin obtenu un document qui conserve sa dimension (ou presque) entre AD et Inkscape.
 
-Il faut exporter avec la résolution `96dpi`, je ne sais pas•plus pourquoi, mais c’est comme ça.
+Il faut exporter avec la résolution `_96dpi_`, je ne sais pas•plus pourquoi, mais c’est comme ça.
 
 ### Créer un préréglage en 96DPI dans AD
 
